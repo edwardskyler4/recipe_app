@@ -2,23 +2,22 @@
 
 This file tells AI coding agents (Claude Code, Copilot, Cursor, Codex, etc.) how to work in this repository. It is written for an **Applied Programming** course project: a web or mobile app designed and built by a student. Agents must follow these rules for every change, large or small.
 
-> **Students:** Fill in the "Project Details" section below before you start using agents. The more specific you are, the better your agent will follow your architecture.
-
 ---
 
 ## 1. Project Details (student fills this in)
 
-- **App name:**
+- **App name:** Recipe App
 - **One-sentence description:**
-- **Platform:** Web / Mobile (circle one)
-- **Language(s):**
-- **Frameworks:** (e.g., React, Next.js, Express, Flutter, React Native, SwiftUI, Django)
-- **Data storage:** (e.g., PostgreSQL, SQLite, Firebase, local device storage, external API)
-- **Test framework(s):** (e.g., Jest, Vitest, pytest, JUnit, XCTest, flutter_test)
+- **Platform:** PWA
+- **Language(s):** TypeScript
+- **Frameworks:** React with TypeScript and Vite
+- **Data storage:** Supabase
+- **Test framework(s):** ViTest
 - **Command to run the app:**
 - **Command to run all tests:**
 - **Command to run a single test file:**
 - **Command to run the linter/formatter:**
+- **Notes:** The domain layer is to be implemented in Supabase edge functions.
 
 ---
 
