@@ -17,7 +17,7 @@ This file tells AI coding agents (Claude Code, Copilot, Cursor, Codex, etc.) how
 - **Command to run all tests:**
 - **Command to run a single test file:**
 - **Command to run the linter/formatter:**
-- **Notes:** The domain layer is to be implemented in Supabase edge functions.
+- **Notes:** The domain layer is to be implemented in Supabase edge functions. Deployment will be done using CloudFlare.
 
 ---
 
