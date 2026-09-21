@@ -4,3 +4,4 @@ A recipe collection app designed to accept recipes shared from social media, sto
 Team members:
 
 Evan Crenshaw
+Ruby Larson
