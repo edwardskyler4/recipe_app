@@ -6,6 +6,20 @@ Team members:
 Evan Crenshaw
 Ruby Larson
 
+## MVP capabilities
+
+By the end of Sprint 5, users should be able to:
+
+Create recipes manually.
+Paste or share social URLs into the app.
+Automatically save the URL, platform, title, thumbnail, and description when available.
+Edit imported information and convert it into a recipe.
+Browse a large recipe library with pagination, search, and filters.
+Tag recipes as breakfast, lunch, dinner, or snack.
+View a weekly calendar.
+Assign, replace, and remove recipes from meal slots.
+Use the app comfortably on a phone and desktop.
+
 | Sprint | Main milestone                  | Important work                                                                                                                                | Exit criterion                                                    |
 | ------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 1      | Foundation and risk validation  | Confirm MVP, wireframes, repository, database schema, authentication, deployment pipeline, test real social URLs and mobile sharing           | A deployed user can sign in and save a test recipe                |
